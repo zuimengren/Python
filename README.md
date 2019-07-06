@@ -3,7 +3,7 @@
 从零开始系统化的学习写Python爬虫。   
 主要是记录一下自己写Python爬虫的经过与心得。   
 同时也是为了分享一下如何能更高效率的学习写爬虫。    
-IDE：Vscode    Python版本: 3.6   
+IDE：Vscode Python版本：3.6  
 
 每天的学习记录都会 同步更新到：
 * 微信公众号： findyourownway
@@ -48,3 +48,6 @@ IDE：Vscode    Python版本: 3.6
 * 爬虫应用： 获取支付宝账单信息 https://zhuanlan.zhihu.com/p/28537306
 * 爬虫应用：IT之家热门段子（评论）爬取 https://zhuanlan.zhihu.com/p/28806210
 * 爬虫应用：一号店 商品信息查询程序 https://zhuanlan.zhihu.com/p/28982497
+
+
+ ### 就是自己搞下试试
